@@ -31,8 +31,8 @@ This app allows users to **add, edit, and delete tasks** efficiently, with a smo
 Todo-Sample/
 │
 - ├── index.html # Main HTML file
-- ├── style.css # App styling
-- ├── script.js # JavaScript functionality
+- ├── todo.css # App styling
+- ├── todo.js # JavaScript functionality
 - └── README.md # Project documentation
 
 ---
